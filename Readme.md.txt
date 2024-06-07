@@ -1,0 +1,1 @@
+Here's a straightforward Python script that evaluates the strength of a password based on various criteria, including length, inclusion of uppercase and lowercase letters, numbers, and special characters. The script also gives users feedback on the strength of their password.
